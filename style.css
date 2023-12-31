@@ -151,7 +151,7 @@ span.sete:before {
 .tower {
   position: fixed;
   z-index: 2;
-  left: 65%;
+  left: 60%;
   bottom: 40%;
   scale: 120%;
 }
@@ -205,7 +205,7 @@ span.sete:before {
   height: 100px;
   border-radius: 30px;
   top: 10px;
-  left: 10px;
+  left: 6px;
   box-shadow: 30px 0 #333, 60px 0 #333;
 }
 
@@ -216,7 +216,7 @@ span.sete:before {
   width: 12px;
   height: 100px;
   border-radius: 30px;
-  left: 14px;
+  left: 10px;
   top: 14px;
   box-shadow: 30px 0 #9c5221, 60px 0 #9c5221;
 }
